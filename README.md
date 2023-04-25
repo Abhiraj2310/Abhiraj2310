@@ -1,16 +1,30 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<!--
-**Abhiraj2310/Abhiraj2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/abhiraj-k-7b5b56118/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://abhirajdevops.hashnode.dev/">
+    <img src="https://img.shields.io/badge/Hashnode-white?style=for-the-badge&logo=hashnode&logoColor=blue" alt="Twitter Badge"/>
+  </a>
+  </div>
 
-Here are some ideas to get you started:
+<h1 align="center">
+  Hello There, Welcome to My Profile!
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center" >
+  <samp>
+    👋 Hey there, My name is <em>Abhiraj Kharbade</em> , I'm a passionate DevOps⚙️ enthusiast! My curiosity for cloud computing, containerization, and automation knows no bounds. I'm currently freelancing in DevOps, constantly learning and experimenting with new tools and methodologies to make software development and deployment smoother than ever. I also write technical blogs quite often so do follow me on Hashnode </a>
+  <a href="https://abhirajdevops.hashnode.dev/">
+    <img src="https://img.shields.io/badge/Hashnode-white?style=for-the-badge&logo=hashnode&logoColor=blue" alt="Hashnode Badge"/>
+  </a> .Let's work together to make the world of tech a better place! 💻🚀
+  </samp>
+  <br/>
+</p>
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVjMjM0N2JkMjE2NDBhYzRhYTdjZjVkZTNkOGJjNzJkZThmMmZiNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/kEWaYdvMwTIduesqGe/giphy.gif" width="300px"/>
+</h1>
