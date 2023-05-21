@@ -45,7 +45,7 @@
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
   </a>
   <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://www.pikpng.com/pngl/b/345-3454577_virtual-machine-png.png" width="120" />
+    <img src="https://www.pngitem.com/pimgs/b/513-5132146_discord-logo-png.png" width="120" />
   </a>
    </a>
     <a href="https://www.jenkins.io/" target="_blank" >
