@@ -29,7 +29,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVjMjM0N2JkMjE2NDBhYzRhYTdjZjVkZTNkOGJjNzJkZThmMmZiNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/kEWaYdvMwTIduesqGe/giphy.gif" width="300px"/>
 </h1>
 
-## :zap: Skills
+## :zap: My Skills
 
    <a href="https://www.linux.org/" target="_blanfalse" />
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="90" />
@@ -39,10 +39,10 @@
   </a>
   </a>
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+    <img src="https://www.pikpng.com/pngl/b/345-3454624_docker-png.png"  height="80" /> 
   </a>
   <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
+    <img src="https://www.vhv.rs/dpng/d/484-4842971_kubernetes-logo-png-kubernetes-logo-vector-transparent-png.png"  height="75" />
   </a>
   <a href="https://www.terraform.io/" target="_blank" >
     <img src="https://www.pngitem.com/pimgs/b/513-5132146_discord-logo-png.png" width="120" />
