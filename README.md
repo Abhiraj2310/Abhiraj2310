@@ -26,7 +26,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVjMjM0N2JkMjE2NDBhYzRhYTdjZjVkZTNkOGJjNzJkZThmMmZiNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/kEWaYdvMwTIduesqGe/giphy.gif" width="300px"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVjMjM0N2JkMjE2NDBhYzRhYTdjZjVkZTNkOGJjNzJkZThmMmZiNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/kEWaYdvMwTIduesqGe/giphy.gif" width="280px"/>
 </h1>
 
 ## :zap: My Skills
