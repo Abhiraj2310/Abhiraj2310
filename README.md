@@ -25,10 +25,6 @@
   <br/>
 </p>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVjMjM0N2JkMjE2NDBhYzRhYTdjZjVkZTNkOGJjNzJkZThmMmZiNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/kEWaYdvMwTIduesqGe/giphy.gif" width="280px"/>
-</h1>
-
 ## :zap: My Skills
 
    <a href="https://www.linux.org/" target="_blanfalse" />
@@ -62,3 +58,6 @@
   <a href="https://code.visualstudio.com/" target="_blank" >
     <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
   </a>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVjMjM0N2JkMjE2NDBhYzRhYTdjZjVkZTNkOGJjNzJkZThmMmZiNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/kEWaYdvMwTIduesqGe/giphy.gif" width="280px"/>
+</h1>
