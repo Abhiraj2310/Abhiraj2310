@@ -44,15 +44,12 @@
   <a href="https://kubernetes.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
   </a>
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
-  </a>
   <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
+    <img src="https://www.pikpng.com/pngl/b/345-3454577_virtual-machine-png.png" width="120" />
   </a>
    </a>
     <a href="https://www.jenkins.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="90" />
+    <img src="https://www.jenkins.io/images/logo-title-opengraph.png" height="90" />
   </a>
   <a href="https://www.ansible.com/" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  height="90" />
