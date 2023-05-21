@@ -42,10 +42,10 @@
     <img src="https://www.pikpng.com/pngl/b/345-3454624_docker-png.png"  height="80" /> 
   </a>
   <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://www.vhv.rs/dpng/d/484-4842971_kubernetes-logo-png-kubernetes-logo-vector-transparent-png.png"  height="75" />
+    <img src="https://www.nicepng.com/png/full/243-2433208_vmware-logo-png.png"  height="75" />
   </a>
   <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://www.pngitem.com/pimgs/b/513-5132146_discord-logo-png.png" width="120" />
+    <img src="https://www.nicepng.com/png/full/386-3869336_tencent-logo-png.png" width="120" />
   </a>
    </a>
     <a href="https://www.jenkins.io/" target="_blank" >
